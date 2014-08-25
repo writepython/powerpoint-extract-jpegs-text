@@ -1,3 +1,6 @@
+
+Extracts images from a PowerPoint file for display on a website or similar.  Additionally, extracts any text from the PowerPoint file to improve search results.
+
 == Usage ==
 
 <python> powerpoint_to_jpegs_and_text.py <path_to_powerpoint_file> <output_directory> <extract_text>
